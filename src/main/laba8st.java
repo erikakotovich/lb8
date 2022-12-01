@@ -49,3 +49,4 @@ public class laba8st {
         this.stroka4 = stroka4;
     }
 }
+//785
